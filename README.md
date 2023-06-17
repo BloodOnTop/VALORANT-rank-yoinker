@@ -112,4 +112,4 @@ If you want to make a small change to the application, you can:
 
 [license-shield]: https://img.shields.io/github/license/isaacKenyon/valorant-rank-yoinker?style=for-the-badge
 [license-url]: https://github.com/isaacKenyon/valorant-rank-yoinker/blob/main/LICENSE
-x
+a
